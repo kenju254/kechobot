@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kenju254/kechobot/issues"
   },
-  "homepage": "https://github.com/kenju254/kechobot#readme"
+  "homepage": "https://github.com/kenju254/kechobot#readme",
+  "dependencies": {
+        "messenger-bot": "^2.4.0"
+    }
 }
